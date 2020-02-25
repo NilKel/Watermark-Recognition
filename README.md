@@ -1,5 +1,5 @@
 # Watermark-Recognition
-Identifying watermarks from historical documents using Mathematica
+Extracting watermarks from scans of historical documents using Mathematica
 
 Download the Mathematica notebook from https://drive.google.com/open?id=1DmZDeQy0jhd9zSs7WfKSED__9YDeSk6j
 
